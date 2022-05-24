@@ -1,2 +1,2 @@
 # imagebed
-图床
+github图床
